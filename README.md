@@ -1,10 +1,12 @@
 # ¡Hola! Soy Arnau 👋
 
-Soy un apasionado de los datos, la inteligencia artificial y el machine learning. Actualmente, curso un Máster en Data Science con experiencia en análisis estadístico, modelado de datos y predicción.
+📊 **Data Scientist & Data Analytics | Machine Learning & AI Enthusiast**
 
-🚀 Aplicando **Machine Learning** y **Deep Learning** para resolver problemas reales.  
-📊 Formación en **Estadística Aplicada**, especialización en **procesamiento de datos, clasificación, regresión y clustering**.  
-🎯 En busca de oportunidades en **Data Science** e **Inteligencia Artificial**.  
+Profesional del análisis de datos con experiencia en Data Science y Data Analytics, especializado en transformar datos en conocimiento accionable. Mi formación en Estadística Aplicada y mi Máster en Data Science me han permitido desarrollar habilidades en análisis exploratorio, modelado predictivo y optimización de procesos mediante inteligencia artificial.
+
+📊 Experto en análisis de datos, visualización e interpretación de resultados para la toma de decisiones estratégicas.
+🚀 Aplicación de Machine Learning, Deep Learning y técnicas avanzadas de modelado para resolver problemas complejos.
+🎯 Buscando oportunidades para aportar valor en Data Science, Data Analytics e Inteligencia Artificial.
 
 ## 🔧 Habilidades y Herramientas
 
