@@ -31,6 +31,6 @@ Soy un apasionado de los datos, la inteligencia artificial y el machine learning
 
 ## 📫 Contacto
 
-📩 [urbina.arnau@gmail.com](mailto:urbina.arnau@gmail.com)  
+📩 [Gmail](mailto:urbina.arnau@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/arnau-urbina-lopez/)  
 
